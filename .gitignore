@@ -1,1 +1,4 @@
-env\
+env
+src\cxgdashboard\dist
+src\cxgdashboard\environments\
+*.pyc

@@ -1,0 +1,67 @@
+[
+  {
+    "id":1695848,
+    "name":"Angeles",
+    "coord": {"lat": 15.14, "lon": 120.59}
+  },
+  {
+    "id":1729564,
+    "name":"Bacolod",
+    "coord": {"lat": 10.68, "lon": 122.95}
+  },
+  {
+    "id":1728930,
+    "name":"Baguio",
+    "coord": {"lat": 16.41, "lon": 120.59}
+  },
+  {
+    "id":1726280,
+    "name":"Batangas",
+    "coord": {"lat": 13.76, "lon": 121.06}
+  },
+  {
+    "id":1721080,
+    "name":"Cagayan de Oro",
+    "coord": {"lat": 8.48, "lon": 124.64}
+  },
+  {
+    "id":7521309,
+    "name":"Davao",
+    "coord": {"lat": 6.81, "lon": 125.71}
+  },
+  {
+    "id":1710456,
+    "name":"Itbayat",
+    "coord": {"lat": 20.79, "lon": 121.84}
+  },
+  {
+    "id":1706889,
+    "name":"Legazpi",
+    "coord": {"lat": 13.14, "lon": 123.73}
+  },
+  {
+    "id":1701668,
+    "name":"Manila",
+    "coord": {"lat": 14.59, "lon": 120.98}
+  },
+  {
+    "id":1698829,
+    "name":"Naga",
+    "coord": {"lat": 13.62, "lon": 123.19}
+  },
+  {
+    "id":1692685,
+    "name":"Puerto Princesa",
+    "coord": {"lat": 9.74, "lon": 118.73}
+  },
+  {
+    "id":1687186,
+    "name":"Sarangani",
+    "coord": {"lat": 5.4, "lon": 125.46}
+  },
+  {
+    "id":1686004,
+    "name":"Sitangkai",
+    "coord": {"lat": 4.66, "lon": 119.39}
+  }
+]
